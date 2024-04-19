@@ -1,0 +1,31 @@
+---
+title: "Lab 10: Statistical inference"
+author: "Lin Wang"
+format: html
+---
+
+## What did you learn?
+
+- Throughout this lab, I acquired a comprehensive understanding of statistical modeling and data analysis using R, particularly focusing on inferential analysis. Specifically, I learned how to:
+
+  - Identify and articulate a research hypothesis, crucial for guiding the entire analysis process.
+
+  - Map the hypothesis to appropriate response and explanatory variables, ensuring alignment between the research question and the statistical model.
+
+  - Utilize simulation-based methods for statistical inference, enabling robust analysis even with complex data structures and small sample sizes.
+
+  - Interpret and evaluate the results of inferential models, including understanding the significance of coefficients, confidence intervals, and p-values.
+
+These skills are fundamental for conducting rigorous statistical analysis and deriving meaningful insights from data.
+
+## What did you find most/ least challenging?
+
+- The most challenging aspect for me was understanding the theoretical underpinnings behind each step of the inferential analysis process. Specifically, grasping concepts such as hypothesis testing, model fitting, and effect size calculation required careful attention and additional study. Additionally, interpreting the results in the context of the research question and drawing actionable insights posed some difficulty initially.However, with perseverance and a systematic approach to learning, I was able to overcome these challenges. Engaging with supplementary resources, seeking clarification from instructors, and practicing with real-world datasets were instrumental in deepening my understanding and confidence in inferential analysis.
+
+## What resources did you consult?
+ 
+- During the lab, I primarily relied on the provided lab content, our textbook which embeds almost all the details that I need for practicing, and the documentation for R packages such as infer, ggplot2, and dplyr. Additionally, I consulted online resources, such as tutorials and forums, to clarify specific concepts and troubleshoot any issues I encountered. The structured approach of the lab content and the guidance from the instructor were instrumental in my learning process. Meanwhile, I kept following YouTubers whom I benefit a lot from my previous lab practice.
+
+##  What more would you like to know about inferential analysis?
+ 
+- While the lab provided a solid foundation in inferential analysis, I'm interested in exploring more advanced topics within this domain. Specifically, I'd like to deepen my understanding of multivariate regression analysis, Bayesian inference, and techniques for handling complex datasets with interactions and non-linear relationships. 

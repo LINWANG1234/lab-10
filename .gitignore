@@ -4,7 +4,11 @@
 .Ruserdata
 .DS_Store
 *.Rproj
-_*
 cite-packages.R
-*_files
-*.html
+*code-workspace
+_site/
+/.quarto/
+
+data/derived/sotu_curated.csv
+data/derived/sotu_sentiment.csv
+process/*_files
